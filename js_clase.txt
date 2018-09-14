@@ -1,0 +1,52 @@
+
+var a = 5
+var b = 100
+var c = a + b
+var d = { nombre: "Juan", ingreso: 5000 }
+function xyz() { console.log("hola") }
+function add( num1, num2 ) {
+return num1 + num2}
+var k
+var m = null
+var w = true
+var fu = d
+fu.nombre = "Maikel"
+var amorcito = fu
+amorcito.nombre = "Isabel"
+var z = [ 11, 12, 13, 14, 15 ]
+window.z[0]
+window.z[4]
+window.z[3.8]
+window.z[-1]
+
+
+z[5] = 16
+d.profesion = "ingeniero"
+d.minutos = b
+d.dias_trabajados = z
+window.d
+z[6] = add
+
+
+window.z
+window.d
+d.dias_trabajados[6]( 10, 55 )
+lista1 = [ 1,2,3 ]
+lista2 = [a,b,c]
+lista3 = [ "Isabel", "Maikel", "Erika" ]
+window.lista1
+window.lista2
+window.lista3
+var lista4 = [lista1, lista2, lista3]
+window.lista4
+lista4[2][1]
+window.lista4
+window.lista4
+window.lista4[2]
+window.lista4[2][1]
+window.d
+window.d["ingreso"]
+d["profesion"]
+d["profesion"] = "cocinero"
+
+
